@@ -1,3 +1,11 @@
+## [4.21.12](https://github.com/adobe/coral-spectrum/compare/v4.21.11...v4.21.12) (2026-05-19)
+
+
+### Bug Fixes
+
+* hide icons from screenreaders  ([#413](https://github.com/adobe/coral-spectrum/issues/413)) ([64c9b65](https://github.com/adobe/coral-spectrum/commit/64c9b6521df32b769f46b2ecd873b0bac8ebb4a0))
+* SITES-24495 Button label contains state ([#411](https://github.com/adobe/coral-spectrum/issues/411)) ([b6068c7](https://github.com/adobe/coral-spectrum/commit/b6068c7ceca955d5f96192ee6ec99341e791c918))
+
 ## [4.21.11](https://github.com/adobe/coral-spectrum/compare/v4.21.10...v4.21.11) (2026-04-07)
 
 
